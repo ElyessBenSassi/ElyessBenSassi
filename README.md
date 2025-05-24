@@ -73,7 +73,7 @@ I’m a passionate developer with a strong foundation in software engineering an
 ## 📬 Contact
 
 - Email: [elyess.bensassi@esprit.tn](mailto:elyess.bensassi@esprit.tn)  
-- LinkedIn: [linkedin.com/in/elyessbensassi](https://www.linkedin.com/in/elyessbensassi)  
+- LinkedIn: [linkedin.com/in/elyessbensassi](https://www.linkedin.com/in/elyess-ben-sassi-7a7253224/)  
 - GitHub: [github.com/elyessbensassi](https://github.com/elyessbensassi)
 
 ---
