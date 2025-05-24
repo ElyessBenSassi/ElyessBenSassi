@@ -82,5 +82,5 @@ I’m a passionate developer with a strong foundation in software engineering an
 ## 📄 CV
 
 You can preview or download my latest resume here:  
-👉 [Elyess Ben Sassi – CV (PDF)](https://github.com/elyessbensassi/elyessbensassi/blob/main/Elyess_Ben_Sassi_CV.pdf)
+👉 [Elyess Ben Sassi – CV (PDF)](https://github.com/elyessbensassi/elyessbensassi/blob/main/ElyessBenSassi_CV_2025Update.pdf)
 
